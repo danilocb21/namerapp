@@ -1,6 +1,8 @@
 # namer_app
 
-Aplicativo que gera palavras aleatórias e dá opção de curtir/salvar as melhores e visualizar uma lista com essas palavras. 
+Aplicativo que gera palavras aleatórias e dá opção de curtir/salvar as melhores e visualizar uma lista com essas palavras.  
+Feito com a linguagem Dart e o framework Flutter.  
+Arquivo principal está na pasta lib
 
 ## Tutorial do Google
 
